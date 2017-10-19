@@ -7,7 +7,7 @@ The idea behind this AI logic is to abuse the spell "Spark" wich has a long-rang
 
 The AI will always try to avoid taking any damage. If it is not possible, it will try to do the maximum damage while trying not to lose too much health (by avoiding weapons line of sight for example).
 
-## Kwon bugs
+## Known bugs
 
 * If the opponent has too much spells and weapon equiped, the AI may take too long to execute and the system will kill it, resulting in defeat.
 
