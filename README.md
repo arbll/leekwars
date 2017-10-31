@@ -1,5 +1,5 @@
-# LeakWars kiting AI
-An attempt at an AI for the online game [LeakWars](https://leekwars.com/) written in CoffeeScript.
+# LeekWars kiting AI
+An attempt at an AI for the online game [LeekWars](https://leekwars.com/) written in CoffeeScript.
 
 ## Approach
 
@@ -15,7 +15,7 @@ The AI will always try to avoid taking any damage. If it is not possible, it wil
 
 You can run `compile.bat` on windows or use the command contained inside on any other platform.
 
-Because LeakWars code is not real javascript (but extremely close), you might stumble on some errors.
+Because LeekWars code is not real javascript (but extremely close), you might stumble on some errors.
 
 ## Example
 
